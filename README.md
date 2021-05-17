@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save web-bus
+npm install --save @simpli/web-bus
 ```
 
 ## Usage
